@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en-US" class="js">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Visiting London – Martin &amp; Laura</title>
+
+    <link rel="stylesheet" id="style-css" href="assets/css/style.css" type="text/css" media="all">
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+    <!--<script type="text/javascript" src="assets/js/jquery-migrate.min.js"></script>-->
+
+    <script src="assets/js/waypoints.js"></script>
+    <script src="assets/js/waypoints-sticky.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.sticky-navigation').waypoint('sticky');
+        });
+    </script>
+
+
+</head>
+
+<body class="page-template-default page page-id-47 post-thumbnail">
+
+<div hidden="">
+    <svg xmlns="http://www.w3.org/2000/svg">
+        <symbol xmlns="http://www.w3.org/2000/svg" id="caret-down-icon" viewBox="0 0 100 64">
+            <g class="svg-icon">
+                <polygon points="100,14.1 85.9,0 50,35.9 14.1,0 0,14.1 49.9,64 50,63.9 50.1,64 "></polygon>
+            </g>
+        </symbol>
+    </svg>
+</div>
+
+<div id="page" class="site">
+
+    <header id="masthead" class="site-header" style="animation-duration: 700ms; opacity: 1;">
+        <div class="site-header__inner">
+            <div class="site-header__left flex__center">
+                <nav class="main-navigation" aria-label="Primary Menu">
+                    <div class="menu-primary-container">
+                        <ul id="primary-menu" class="menu">
+                            <li id="menu-item-271"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271">
+                                <a href="rsvp">RSVP</a>
+                            </li>
+                            <li id="menu-item-272"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272">
+                                <a href="menu">Menu</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="site-header__middle flex__center">
+                <a class="site-logo-link" href="/" rel="home">Martin &amp; Laura</a>
+            </div>
+
+            <div class="site-header__right flex__center">
+                <nav class="main-navigation" aria-label="Secondary Menu">
+                    <div class="menu-main-menu-container">
+                        <ul id="secondary-menu" class="menu">
+                            <li id="menu-item-285"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286">
+                                <a href="london">Visiting London</a>
+                            </li>
+                            <li id="menu-item-286"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286">
+                                <a href="registry">Registry</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <nav id="mobile-navigation" class="mobile-navigation" aria-label="Mobile Menu">
+            <div class="menu-mobile-container">
+                <ul id="mobile-menu" class="menu nav-menu" aria-expanded="false">
+                    <li id="menu-item-274"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274">
+                        <a href="rsvp">RSVP</a>
+                    </li>
+                    <li id="menu-item-275"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274">
+                        <a href="menu">Menu</a>
+                    </li>
+                    <li id="menu-item-292"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292">
+                        <a href="london">Visiting London</a>
+                    </li>
+                    <li id="menu-item-273"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273">
+                        <a href="registry">Registry</a>
+                    </li>
+                </ul>
+            </div>
+            <button class="menu-toggle" aria-controls="mobile-menu" aria-expanded="false">
+                Primary Menu<span></span><span></span><span></span>
+            </button>
+        </nav>
+
+    </header>
+
+    <div id="content" class="site-content clearfix">
+
+        <section id="hero" class="site-hero section__fullscreen  section__bg-image" style="height: 737px;">
+            <div class="page-inner" style="animation-duration: 1600ms; opacity: 1;">
+                <h1 class="entry-title">Visiting London </h1>
+            </div>
+            <div class="scroll-more">
+                <a href="#post-47">
+                    <div>
+                        <svg shape-rendering="geometricPrecision">
+                            <use xlink:href="#caret-down-icon"></use>
+                        </svg>
+                    </div>
+                </a>
+            </div>
+            <div class="page-bg"
+                 style="background-image: url('assets/img/london-3.jpg'); animation-duration: 200ms; opacity: 1;"></div>
+            <div class="page-item-border"></div>
+        </section>
+
+        <div id="stuff">
+            <div class="sticky-wrapper" style="height: 54px;">
+                <div class="sticky-navigation">
+                    <ul>
+                        <li><a href="#where-to-stay">Where to Stay</a></li>
+                        <li><a href="#travel">Travel</a></li>
+                        <li><a href="#things-to-do">Things to Do</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="masonry-container" class="hfeed align__center">
+
+                <div id="where-to-stay">
+
+                    <h1>Where to stay</h1>
+
+                    <p class="info">There are plenty of places to stay in London, as you’d expect, so we’ll try to help
+                        narrow the search
+                        for you a bit!</p>
+
+                    <p class="info">If you’d like to stay in an Airbnb, we’d recommend looking in the following
+                        neighborhoods:</p>
+
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <img width="800" height="600" src="assets/img/attractions/768x576/angel.png"
+                                 class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                 alt=""
+                                 srcset="assets/img/attractions/768x576/angel.png 800w, assets/img/attractions/300x225/angel.png 300w, assets/img/attractions/768x576/angel.png 768w, assets/img/attractions/140x105/angel.png 140w, assets/img/attractions/200x150/angel.png 200w"
+                                 sizes="(max-width: 800px) 100vw, 800px">
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title">Angel</h2>
+                            <p class="entry-excerpt">The neighborhood where the ceremony will be taking place. Lots of
+                                shops, grocery stores, restaurants, and pubs/clubs, so a busier atmosphere.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <img width="800" height="600" src="assets/img/attractions/768x576/canonbury.jpg"
+                                 class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                 alt=""
+                                 srcset="assets/img/attractions/768x576/canonbury.jpg 800w, assets/img/attractions/300x225/canonbury.jpg 300w, assets/img/attractions/768x576/canonbury.jpg 768w, assets/img/attractions/140x105/canonbury.jpg 140w, assets/img/attractions/200x150/canonbury.jpg 200w"
+                                 sizes="(max-width: 800px) 100vw, 800px">
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title">Highbury/Canonbury</h2>
+                            <p class="entry-excerpt">Quieter, residential areas to the north of Angel that are short
+                                public
+                                transport trips or a slightly lengthier walk away from the ceremony venue.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <img width="800" height="600" src="assets/img/attractions/768x576/holloway.jpg"
+                                 class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                 alt=""
+                                 srcset="assets/img/attractions/768x576/holloway.jpg 800w, assets/img/attractions/300x225/holloway.jpg 300w, assets/img/attractions/768x576/holloway.jpg 768w, assets/img/attractions/140x105/holloway.jpg 140w, assets/img/attractions/200x150/holloway.jpg 200w"
+                                 sizes="(max-width: 800px) 100vw, 800px">
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title">Holloway</h2>
+                            <p class="entry-excerpt">Also north of Angel, with residential spaces and a fairly
+                                well-stocked
+                                high street (grocery/restaurants/pubs). Should be cheaper than the areas above.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <img width="800" height="600" src="assets/img/attractions/768x576/manor.jpg"
+                                 class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                 alt=""
+                                 srcset="assets/img/attractions/768x576/manor.jpg 800w, assets/img/attractions/300x225/manor.jpg 300w, assets/img/attractions/768x576/manor.jpg 768w, assets/img/attractions/140x105/manor.jpg 140w, assets/img/attractions/200x150/manor.jpg 200w"
+                                 sizes="(max-width: 800px) 100vw, 800px">
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title">Manor House</h2>
+                            <p class="entry-excerpt">Further out, walking distance to the reception venue. Aim close to
+                                the
+                                tube station(Piccadilly Line) for an easy link to most main tourist hotspots. Should be
+                                significantly cheaper than the other areas above.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <img width="800" height="600" src="assets/img/attractions/768x576/wapping.jpg"
+                                 class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                 alt=""
+                                 srcset="assets/img/attractions/768x576/wapping.jpg 800w, assets/img/attractions/300x225/wapping.jpg 300w, assets/img/attractions/768x576/wapping.jpg 768w, assets/img/attractions/140x105/wapping.jpg 140w, assets/img/attractions/200x150/wapping.jpg 200w"
+                                 sizes="(max-width: 800px) 100vw, 800px">
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title">Wapping</h2>
+                            <p class="entry-excerpt">Not especially close to the ceremony or reception, but our
+                                neighborhood
+                                and the best neighborhood in London! Quiet and residential with great pubs on the
+                                river.</p>
+                        </div>
+                    </article>
+
+                    <p class="info">Since the reception is a bit of a way out of central, there are not a ton of hotels
+                        close by, but
+                        there are good options for those who would prefer to stay around the ceremony venue.</p>
+
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <a href="http://www3.hilton.com/en/hotels/united-kingdom/hilton-london-angel-islington-LONISHN/index.html">
+                                <img width="800" height="600" src="assets/img/attractions/768x576/angel-hilton.jpg"
+                                     class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                     alt=""
+                                     srcset="assets/img/attractions/768x576/angel-hilton.jpg 800w, assets/img/attractions/300x225/angel-hilton.jpg 300w, assets/img/attractions/768x576/angel-hilton.jpg 768w, assets/img/attractions/140x105/angel-hilton.jpg 140w, assets/img/attractions/200x150/angel-hilton.jpg 200w"
+                                     sizes="(max-width: 800px) 100vw, 800px">
+                            </a>
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title"><a
+                                    href="http://www3.hilton.com/en/hotels/united-kingdom/hilton-london-angel-islington-LONISHN/index.html">Hilton
+                                London Angel Islington</a></h2>
+                            <p class="entry-excerpt">4-star hotel in the center of Angel, easy access to all of the
+                                goings-on there and a short walk to the ceremony venue.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <a href="https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-angel-islington.html">
+                                <img width="800" height="600" src="assets/img/attractions/768x576/premier-inn.jpg"
+                                     class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                     alt=""
+                                     srcset="assets/img/attractions/768x576/premier-inn.jpg 800w, assets/img/attractions/300x225/premier-inn.jpg 300w, assets/img/attractions/768x576/premier-inn.jpg 768w, assets/img/attractions/140x105/premier-inn.jpg 140w, assets/img/attractions/200x150/premier-inn.jpg 200w"
+                                     sizes="(max-width: 800px) 100vw, 800px">
+                            </a>
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title"><a
+                                    href="https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-angel-islington.html">Premier
+                                Inn London Angel Islington</a></h2>
+                            <p class="entry-excerpt">3-star hotel that’s basically across from the Hilton.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <a href="http://doubletree3.hilton.com/en/hotels/united-kingdom/doubletree-by-hilton-hotel-london-islington-LONLIDI/index.html">
+                                <img width="800" height="600" src="assets/img/attractions/768x576/doubletree.jpg"
+                                     class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                     alt=""
+                                     srcset="assets/img/attractions/768x576/doubletree.jpg 800w, assets/img/attractions/300x225/doubletree.jpg 300w, assets/img/attractions/768x576/doubletree.jpg 768w, assets/img/attractions/140x105/doubletree.jpg 140w, assets/img/attractions/200x150/doubletree.jpg 200w"
+                                     sizes="(max-width: 800px) 100vw, 800px">
+                            </a>
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title"><a
+                                    href="http://doubletree3.hilton.com/en/hotels/united-kingdom/doubletree-by-hilton-hotel-london-islington-LONLIDI/index.html">DoubleTree
+                                by Hilton Hotel – London</a></h2>
+                            <p class="entry-excerpt">A 4-star hotel just on the southern edge of Angel, also a 15 minute
+                                walk to King’s Cross St Pancras Station for lots of tube and train lines.</p>
+                        </div>
+                    </article>
+                    <article
+                            class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                        <div class="entry-media">
+                            <a href="https://www.travelodge.co.uk/hotels/258/London-Central-Kings-Cross-hotel">
+                                <img width="800" height="600" src="assets/img/attractions/768x576/travelodge.jpg"
+                                     class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                     alt=""
+                                     srcset="assets/img/attractions/768x576/travelodge.jpg 800w, assets/img/attractions/300x225/travelodge.jpg 300w, assets/img/attractions/768x576/travelodge.jpg 768w, assets/img/attractions/140x105/travelodge.jpg 140w, assets/img/attractions/200x150/travelodge.jpg 200w"
+                                     sizes="(max-width: 800px) 100vw, 800px">
+                            </a>
+                        </div>
+                        <div class="inner">
+                            <h2 class="entry-title"><a
+                                    href="https://www.travelodge.co.uk/hotels/258/London-Central-Kings-Cross-hotel">Travelodge
+                                London Central Kings Cross</a></h2>
+                            <p class="entry-excerpt">2-star budget hotel right across from King’s Cross, with easy tube
+                                rides to the ceremony and from the reception. Not the most picturesque of locations, but
+                                you
+                                can’t beat the transport connections!</p>
+                        </div>
+                    </article>
+
+                </div>
+
+                <div id="travel">
+                    <h1>Travel</h1>
+                    <p>City Mapper</p>
+                    <p>Uber</p>
+                    <p>Black Cab</p>
+                    <p>Underground</p>
+                    <p>Heathrow Express</p>
+                    <p>Bus</p>
+                    <p>Oyster card</p>
+                     
+                </div>
+                 
+                <h1>Things to do</h1>
+
+                <div id="things-to-do">
+                    <div id="near-us">
+                        <h2>Near Us</h2>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.hrp.org.uk/tower-of-london/"
+                                   aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/tower-of-london.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/tower-of-london.jpg 800w, assets/img/attractions/300x225/tower-of-london.jpg 300w, assets/img/attractions/768x576/tower-of-london.jpg 768w, assets/img/attractions/140x105/tower-of-london.jpg 140w, assets/img/attractions/200x150/tower-of-london.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.hrp.org.uk/tower-of-london/" rel="bookmark">The Tower Of
+                                        London</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.towerbridge.org.uk/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/tower-bridge.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/tower-bridge.jpg 800w, assets/img/attractions/300x225/tower-bridge.jpg 300w, assets/img/attractions/768x576/tower-bridge.jpg 768w, assets/img/attractions/140x105/tower-bridge.jpg 140w, assets/img/attractions/200x150/tower-bridge.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.towerbridge.org.uk/" rel="bookmark">Tower Bridge</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.skdocks.co.uk/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/st-katharine-docks.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/st-katharine-docks.jpg 800w, assets/img/attractions/300x225/st-katharine-docks.jpg 300w, assets/img/attractions/768x576/st-katharine-docks.jpg 768w, assets/img/attractions/140x105/st-katharine-docks.jpg 140w, assets/img/attractions/200x150/st-katharine-docks.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.skdocks.co.uk/" rel="bookmark">St Katherine Docks</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                    </div>
+
+                    <div id="entertainment">
+
+                        <h2>Entertainment</h2>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.royalalberthall.com/tickets/"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/albert-hall.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/albert-hall.jpg 800w, assets/img/attractions/300x225/albert-hall.jpg 300w, assets/img/attractions/768x576/albert-hall.jpg 768w, assets/img/attractions/140x105/albert-hall.jpg 140w, assets/img/attractions/200x150/albert-hall.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.royalalberthall.com/tickets/" rel="bookmark">Royal Albert
+                                        Hall</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.londontheatre.co.uk/tickets/all-shows"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/west-end.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/west-end.jpg 800w, assets/img/attractions/300x225/west-end.jpg 300w, assets/img/attractions/768x576/west-end.jpg 768w, assets/img/attractions/140x105/west-end.jpg 140w, assets/img/attractions/200x150/west-end.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.londontheatre.co.uk/tickets/all-shows" rel="bookmark">The West
+                                        End</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.shakespearesglobe.com/"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/the-globe.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/the-globe.jpg 800w, assets/img/attractions/300x225/the-globe.jpg 300w, assets/img/attractions/768x576/the-globe.jpg 768w, assets/img/attractions/140x105/the-globe.jpg 140w, assets/img/attractions/200x150/the-globe.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.shakespearesglobe.com/" rel="bookmark">Shakespeare's
+                                        Globe Theatre</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                    </div>
+
+                    <div id="History">
+                        <h2>History</h2>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.britishmuseum.org/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/british-museum.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/british-museum.jpg 800w, assets/img/attractions/300x225/british-museum.jpg 300w, assets/img/attractions/768x576/british-museum.jpg 768w, assets/img/attractions/140x105/british-museum.jpg 140w, assets/img/attractions/200x150/british-museum.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.britishmuseum.org/" rel="bookmark">British Museum</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.nhm.ac.uk/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/natural-history.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/natural-history.jpg 800w, assets/img/attractions/300x225/natural-history.jpg 300w, assets/img/attractions/768x576/natural-history.jpg 768w, assets/img/attractions/140x105/natural-history.jpg 140w, assets/img/attractions/200x150/natural-history.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.nhm.ac.uk/" rel="bookmark">Natural History Museum</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.museumoflondon.org.uk/museum-london"
+                                   aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/museum-of-london.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/museum-of-london.jpg 800w, assets/img/attractions/300x225/museum-of-london.jpg 300w, assets/img/attractions/768x576/museum-of-london.jpg 768w, assets/img/attractions/140x105/museum-of-london.jpg 140w, assets/img/attractions/200x150/museum-of-london.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.museumoflondon.org.uk/museum-london" rel="bookmark">Museum of
+                                        London</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.sciencemuseum.org.uk/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/science-museum.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/science-museum.jpg 800w, assets/img/attractions/300x225/science-museum.jpg 300w, assets/img/attractions/768x576/science-museum.jpg 768w, assets/img/attractions/140x105/science-museum.jpg 140w, assets/img/attractions/200x150/science-museum.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.sciencemuseum.org.uk/" rel="bookmark">Science Museum</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.vam.ac.uk/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/victoria-and-albert.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/victoria-and-albert.jpg 800w, assets/img/attractions/300x225/victoria-and-albert.jpg 300w, assets/img/attractions/768x576/victoria-and-albert.jpg 768w, assets/img/attractions/140x105/victoria-and-albert.jpg 140w, assets/img/attractions/200x150/victoria-and-albert.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.vam.ac.uk/" rel="bookmark">Victoria & Albert Museum</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.wallacecollection.org/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/wallace-collection.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/wallace-collection.jpg 800w, assets/img/attractions/300x225/wallace-collection.jpg 300w, assets/img/attractions/768x576/wallace-collection.jpg 768w, assets/img/attractions/140x105/wallace-collection.jpg 140w, assets/img/attractions/200x150/wallace-collection.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.wallacecollection.org/" rel="bookmark">Wallace Collection</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                    </div>
+
+                    <div id="Shopping">
+                        <h2>Shopping</h2>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.fortnumandmason.com/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/hamper-1.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/hamper-1.jpg 800w, assets/img/attractions/300x225/hamper-1.jpg 300w, assets/img/attractions/768x576/hamper-1.jpg 768w, assets/img/attractions/140x105/hamper-1.jpg 140w, assets/img/attractions/200x150/hamper-1.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.fortnumandmason.com/" rel="bookmark">Fortnum & Mason</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.harrods.com/en-gb" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/harrods.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/harrods.jpg 800w, assets/img/attractions/300x225/harrods.jpg 300w, assets/img/attractions/768x576/harrods.jpg 768w, assets/img/attractions/140x105/harrods.jpg 140w, assets/img/attractions/200x150/harrods.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.harrods.com/en-gb" rel="bookmark">Harrods</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.selfridges.com/GB/en/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/selfridges.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/selfridges.jpg 800w, assets/img/attractions/300x225/selfridges.jpg 300w, assets/img/attractions/768x576/selfridges.jpg 768w, assets/img/attractions/140x105/selfridges.jpg 140w, assets/img/attractions/200x150/selfridges.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.selfridges.com/GB/en/" rel="bookmark">Selfridges</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                    </div>
+
+                    <div id="outdoors">
+                        <h2>Outdoors</h2>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.royalparks.org.uk/parks/the-regents-park"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/regents-park.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/regents-park.jpg 800w, assets/img/attractions/300x225/regents-park.jpg 300w, assets/img/attractions/768x576/regents-park.jpg 768w, assets/img/attractions/140x105/regents-park.jpg 140w, assets/img/attractions/200x150/regents-park.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.royalparks.org.uk/parks/the-regents-park" rel="bookmark">Regents
+                                        Park</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.visitgreenwich.org.uk/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/greenwich.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/greenwich.jpg 800w, assets/img/attractions/300x225/greenwich.jpg 300w, assets/img/attractions/768x576/greenwich.jpg 768w, assets/img/attractions/140x105/greenwich.jpg 140w, assets/img/attractions/200x150/greenwich.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.visitgreenwich.org.uk/" rel="bookmark">Greenwich</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.royalparks.org.uk/parks/st-jamess-park"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/st-james-park.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/st-james-park.jpg 800w, assets/img/attractions/300x225/st-james-park.jpg 300w, assets/img/attractions/768x576/st-james-park.jpg 768w, assets/img/attractions/140x105/st-james-park.jpg 140w, assets/img/attractions/200x150/st-james-park.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.royalparks.org.uk/parks/st-jamess-park" rel="bookmark">St James
+                                        Park</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                    </div>
+
+                    <div id="sight-seeing">
+
+                        <h2>Sight Seeing</h2>
+
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.theviewfromtheshard.com/"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/shard.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/shard.jpg 800w, assets/img/attractions/300x225/shard.jpg 300w, assets/img/attractions/768x576/shard.jpg 768w, assets/img/attractions/140x105/shard.jpg 140w, assets/img/attractions/200x150/shard.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.theviewfromtheshard.com/" rel="bookmark">View from the
+                                        Shard</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://skygarden.london/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/sky-garden.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/sky-garden.jpg 800w, assets/img/attractions/300x225/sky-garden.jpg 300w, assets/img/attractions/768x576/sky-garden.jpg 768w, assets/img/attractions/140x105/sky-garden.jpg 140w, assets/img/attractions/200x150/sky-garden.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://skygarden.london/" rel="bookmark">Sky Garden</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail"
+                                   href="https://www.royalcollection.org.uk/visit/the-state-rooms-buckingham-palace"
+                                   aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/buckingham-palace.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/buckingham-palace.jpg 800w, assets/img/attractions/300x225/buckingham-palace.jpg 300w, assets/img/attractions/768x576/buckingham-palace.jpg 768w, assets/img/attractions/140x105/buckingham-palace.jpg 140w, assets/img/attractions/200x150/buckingham-palace.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.royalcollection.org.uk/visit/the-state-rooms-buckingham-palace"
+                                       rel="bookmark">Buckingham Palace</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.nationalgallery.org.uk/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/national-gallery.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/national-gallery.jpg 800w, assets/img/attractions/300x225/national-gallery.jpg 300w, assets/img/attractions/768x576/national-gallery.jpg 768w, assets/img/attractions/140x105/national-gallery.jpg 140w, assets/img/attractions/200x150/national-gallery.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.nationalgallery.org.uk/" rel="bookmark">National Gallery</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.tate.org.uk/visit/tate-britain"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/tate-britain.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/tate-britain.jpg 800w, assets/img/attractions/300x225/tate-britain.jpg 300w, assets/img/attractions/768x576/tate-britain.jpg 768w, assets/img/attractions/140x105/tate-britain.jpg 140w, assets/img/attractions/200x150/tate-britain.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.tate.org.uk/visit/tate-britain" rel="bookmark">Tate Britain</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.citycruises.com/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/river.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/river.jpg 800w, assets/img/attractions/300x225/river.jpg 300w, assets/img/attractions/768x576/river.jpg 768w, assets/img/attractions/140x105/river.jpg 140w, assets/img/attractions/200x150/river.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.citycruises.com/" rel="bookmark">River tour</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="https://www.stpauls.co.uk/" aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/st-pauls.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/st-pauls.jpg 800w, assets/img/attractions/300x225/st-pauls.jpg 300w, assets/img/attractions/768x576/st-pauls.jpg 768w, assets/img/attractions/140x105/st-pauls.jpg 140w, assets/img/attractions/200x150/st-pauls.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="https://www.stpauls.co.uk/" rel="bookmark">St Pauls</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.westminster-abbey.org/" aria-hidden="true">
+                                    <img width="800" height="600"
+                                         src="assets/img/attractions/768x576/westminster-abbey.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/westminster-abbey.jpg 800w, assets/img/attractions/300x225/westminster-abbey.jpg 300w, assets/img/attractions/768x576/westminster-abbey.jpg 768w, assets/img/attractions/140x105/westminster-abbey.jpg 140w, assets/img/attractions/200x150/westminster-abbey.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.westminster-abbey.org" rel="bookmark">Westminster Abbey</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+                        <article
+                                class="post type-post status-publish format-standard has-post-thumbnail hentry category-wedding">
+                            <div class="entry-media">
+                                <a class="post-thumbnail" href="http://www.tate.org.uk/visit/tate-modern"
+                                   aria-hidden="true">
+                                    <img width="800" height="600" src="assets/img/attractions/768x576/tate-modern.jpg"
+                                         class="attachment-page_post-feat size-page_post-feat wp-post-image"
+                                         alt=""
+                                         srcset="assets/img/attractions/768x576/tate-modern.jpg 800w, assets/img/attractions/300x225/tate-modern.jpg 300w, assets/img/attractions/768x576/tate-modern.jpg 768w, assets/img/attractions/140x105/tate-modern.jpg 140w, assets/img/attractions/200x150/tate-modern.jpg 200w"
+                                         sizes="(max-width: 800px) 100vw, 800px">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <h2 class="entry-title">
+                                    <a href="http://www.tate.org.uk/visit/tate-modern" rel="bookmark">Tate Modern</a>
+                                </h2>
+                                <p class="entry-excerpt">Donec sed odio dui. Duis mollis, est non commodo luctus, nisi
+                                    erat
+                                    porttitor ligula, eget… </p>
+                            </div><!-- END .inner -->
+                        </article>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div id="page_nav" class="hide">
+        </div><!-- END #page_nav -->
+
+
+    </div><!-- .site-content -->
+
+</div><!-- .site -->
+
+<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="assets/js/vendors.min.js"></script>
+<script type="text/javascript" src="assets/js/custom.min.js"></script>
+
+</body>
+</html>

@@ -586,7 +586,7 @@ td, th {
     width: auto
 }
 
-.main-navigation a, .site-logo-link {
+.main-navigation a, .sticky-navigation a, .site-logo-link {
     font-family: Lato, sans-serif;
     text-decoration: none;
     text-transform: uppercase
@@ -2412,4 +2412,43 @@ a {
 .info {
     color: #111111;
     clear: both;
+}
+
+.sticky-navigation
+{
+    background: #666666;
+    color: #FFFFFF;
+    font-size: 18px;
+    text-transform: uppercase;
+    height: 2.2em;
+}
+
+.sticky-navigation.stuck
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky-navigation ul
+{
+    padding: 5px;
+    list-style-type: none;
+}
+
+.sticky-navigation ul li
+{
+    display: inline;
+    padding: 10px;
+}
+
+.sticky-navigation a
+{
+    padding: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#masthead {
+    background: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,0.5));
 }

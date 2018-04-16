@@ -14,12 +14,12 @@
 <body class="home page-template page-template-template-home page-template-template-home-php page page-id-150 post-thumbnail">
 <div class="parallax-mirror fadein"
      style="visibility: hidden; z-index: -100; position: fixed; top: 3155px; left: 5px; overflow: hidden; transform: translate3d(0px, 0px, 0px); height: 900px; width: 1430px;">
-    <img class="parallax-slider" src="assets/img/footerjpg"
+    <img class="parallax-slider" src="assets/img/footer.jpg"
          style="transform: translate3d(0px, 0px, 0px); position: absolute; top: -2616px; left: 0px; height: 953px; width: 1430px; max-width: none;">
 </div>
 <div class="parallax-mirror fadein"
      style="visibility: hidden; z-index: -100; position: fixed; top: 1555px; left: 5px; overflow: hidden; transform: translate3d(0px, 0px, 0px); height: 900px; width: 1430px;">
-    <img class="parallax-slider" src="assets/img/reception-inside.jpg.jpg"
+    <img class="parallax-slider" src="assets/img/reception-inside.jpg"
          style="transform: translate3d(0px, 0px, 0px); position: absolute; top: -1336px; left: 0px; height: 953px; width: 1430px; max-width: none;">
 </div>
 
