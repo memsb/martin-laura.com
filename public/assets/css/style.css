@@ -693,6 +693,11 @@ label .required {
     .index-contact-form .submit {
         text-align: left
     }
+
+    .navbox {
+        width: 600px;
+        margin: auto;
+    }
 }
 
 .contact-alert h6 {
@@ -982,10 +987,6 @@ a:active, a:hover {
 .site-logo-link:focus, .site-logo-link:hover {
     color: #fff;
     opacity: .5
-}
-
-.js .hfeed, .js .single-post .site-content, .js .site-header, .js .site-hero .page-bg, .js .site-hero .page-inner.page-inner {
-    opacity: 0
 }
 
 .archive .site-logo-link, .blog .site-logo-link, .search .site-logo-link, .single .site-logo-link, body:not(.post-thumbnail) .site-logo-link {
@@ -1323,6 +1324,16 @@ body {
     #masonry-container, #masonry-container .inner {
         padding-left: 0;
         padding-right: 0
+    }
+
+    .sticky-navigation ul li {
+        padding: 10px;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .sticky-navigation ul li {
+        display: inline;
+        padding: 0 2em;
     }
 }
 
@@ -1917,10 +1928,6 @@ img.alignright {
     z-index: 100
 }
 
-#infscr-loading div {
-    display: none;
-    opacity: 0
-}
 
 .fade-in-down-sm {
     -webkit-animation-name: fade-in-down-sm;
@@ -2420,26 +2427,20 @@ a {
     color: #FFFFFF;
     font-size: 18px;
     text-transform: uppercase;
-    height: 2.2em;
+    text-align: center;
+    width: 100%;
 }
 
 .sticky-navigation.stuck
 {
     position: fixed;
     top: 0;
-    width: 100%;
+    left: 0;
 }
 
 .sticky-navigation ul
 {
-    padding: 5px;
     list-style-type: none;
-}
-
-.sticky-navigation ul li
-{
-    display: inline;
-    padding: 10px;
 }
 
 .sticky-navigation a
@@ -2447,6 +2448,11 @@ a {
     padding: 5px;
     color: #FFFFFF;
     text-decoration: none;
+}
+
+.navbox ol, ul {
+    margin: 0;
+    padding: 0;
 }
 
 #masthead {

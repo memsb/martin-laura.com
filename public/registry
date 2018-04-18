@@ -7,8 +7,7 @@
     <title>Registry – Martin &amp; Laura</title>
 
     <link rel="stylesheet" id="taylor-minified-style-css" href="assets/css/style.css" type="text/css" media="all">
-    <script type="text/javascript" src="assets/js/jquery.js"></script>
-    <script type="text/javascript" src="assets/js/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 
 </head>
 

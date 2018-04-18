@@ -7,8 +7,7 @@
     <title>RSVP – Martin &amp; Laura</title>
 
     <link rel="stylesheet" id="taylor-minified-style-css" href="assets/css/style.css" type="text/css" media="all">
-    <script type="text/javascript" src="assets/js/jquery.js"></script>
-    <script type="text/javascript" src="assets/js/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 </head>
 
 <body class="page-template page-template-template-rsvp page-template-template-rsvp-php page page-id-39 post-thumbnail">
