@@ -1285,7 +1285,8 @@ body {
 
 #masonry-container article p {
     font-size: 18px;
-    font-size: 1.125rem
+    font-size: 1.125rem;
+    text-align: left;
 }
 
 #masonry-container article {
@@ -2417,7 +2418,6 @@ a {
 }
 
 .info {
-    color: #111111;
     clear: both;
 }
 

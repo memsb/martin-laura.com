@@ -7,7 +7,7 @@ time aws s3 rm s3://martin-laura.com --recursive
 declare -a arr=(public/*.html)
 
 # rename to remove .html
-for filename in "${arr[@]}"; do mv "$filename" "${filename%.html}"; done
+for filename in "${arr[@]}"; do cp "$filename" "${filename%.html}"; done
 
 # Upload pages
 time aws s3 sync --exclude="assets/*" public s3://martin-laura.com --acl public-read --content-type "text/html"
